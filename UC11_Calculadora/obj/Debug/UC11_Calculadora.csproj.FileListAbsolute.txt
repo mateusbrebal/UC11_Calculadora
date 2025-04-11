@@ -1,0 +1,10 @@
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\bin\Debug\UC11_Calculadora.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\bin\Debug\UC11_Calculadora.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\bin\Debug\UC11_Calculadora.pdb
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.Form1.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Calculadora\UC11_Calculadora\obj\Debug\UC11_Calculadora.pdb

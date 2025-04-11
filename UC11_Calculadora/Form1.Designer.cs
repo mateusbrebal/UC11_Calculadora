@@ -258,7 +258,7 @@
             this.labelDISPLAYsup.BackColor = System.Drawing.Color.DarkGray;
             this.labelDISPLAYsup.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelDISPLAYsup.ForeColor = System.Drawing.Color.DimGray;
-            this.labelDISPLAYsup.Location = new System.Drawing.Point(27, 24);
+            this.labelDISPLAYsup.Location = new System.Drawing.Point(24, 24);
             this.labelDISPLAYsup.Name = "labelDISPLAYsup";
             this.labelDISPLAYsup.Size = new System.Drawing.Size(231, 21);
             this.labelDISPLAYsup.TabIndex = 18;
@@ -269,7 +269,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkGray;
+            this.BackColor = System.Drawing.Color.Silver;
             this.ClientSize = new System.Drawing.Size(284, 321);
             this.Controls.Add(this.labelDISPLAYsup);
             this.Controls.Add(this.labelDISPLAY);
